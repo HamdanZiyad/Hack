@@ -1,0 +1,13 @@
+﻿@font-face
+{
+    font-family: 'MyFont_1';
+    src: url('fonts/1/font_1.eot');
+    src: url('fonts/1/font_1.eot') format('embedded-opentype'), url('fonts/1/font_1.woff') format('woff'), url('fonts/1/font_1.ttf') format('truetype');
+}
+
+body {
+ margin: 0;
+ font-family: MyFont_1;
+}
+
+ 
